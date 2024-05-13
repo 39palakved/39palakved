@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, my name's Palak</h1>
 <h3 align="center">I'm from India, and I'm passionate about making websites and apps stand out.</h3>
 
