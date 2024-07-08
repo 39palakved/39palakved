@@ -1,5 +1,5 @@
 
-//[![MasterHead](https://github.com/39palakved/banner/blob/main/github-header-image%20(1).png)](https://github.com/39palakved)
+<!--[![MasterHead](https://github.com/39palakved/banner/blob/main/github-header-image%20(1).png)](https://github.com/39palakved)-->
 <h1 align="center">Hi 👋, my name's Palak</h1>
 <h3 align="center">I'm from India, and I'm passionate about making websites and apps stand out.</h3>
 
