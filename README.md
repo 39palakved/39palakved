@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React.js, Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://funny-crumble-2ba78d.netlify.app](https://funny-crumble-2ba78d.netlify.app)
+- 👨‍💻 All of my projects are available at [https://funny-crumble-2ba78d.netlify.app](https://palaksportfolio2.netlify.app/)
 
 - 💬 Ask me about **Javascript ,Java Advance**
 
