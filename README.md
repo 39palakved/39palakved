@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/palakporwal23" target="blank"><img src="https://img.shields.io/twitter/follow/palakporwal23?logo=twitter&style=for-the-badge" alt="palakporwal23" /></a> </p>
 <img align="right" alt="coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&s"></img>
-- 🔭 I’m currently working on [WombWhispers](https://github.com/39palakved/WombWhisper)
+- 🔭 I’m currently working at Cognizant as a Programmer Analyst Trainee.
 
 - 🌱 I’m currently learning **React.js, Mongodb**
 
